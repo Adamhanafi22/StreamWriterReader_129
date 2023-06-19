@@ -13,5 +13,15 @@ int main()
 	//cin >> namafile;
 	 
 	//membuka file dalam mode menulis
+	ofstream outfile;
+	//menunjuk kesebuah nama file
+	outfile.open("contohfile.txt");
+	//outfile.open("contohfile.txt",ios::out);
+	//outfile.open("D:\pemrograman Dasar\contoh.txt")
+
+	cout << ">=  Menulis file, \'q'\ untuk keluar" << endl;
+
+	//unlimitied loop untuk menulis
+
 
 }
