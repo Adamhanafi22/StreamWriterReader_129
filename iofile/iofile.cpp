@@ -11,7 +11,7 @@ int main()
 	//string namafile;
 	//cout << "masukan namafile : ";
 	//cin >> namafile;
-
+	 
 	//membuka file dalam mode menulis
 
 }
